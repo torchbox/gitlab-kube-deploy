@@ -56,7 +56,7 @@ HTTP/1.1 200 OK
 
 ## Installation
 
-Download `kdtool.pyz` from the latest release and copy it to a convenient
+Download `kdtool.pyz` from the [latest release](https://github.com/torchbox/kdtool/releases) and copy it to a convenient
 location, such as `/usr/local/bin/kdtool`.  This is a Python zipapp and requires
 Python 3.4 or later to run.
 
